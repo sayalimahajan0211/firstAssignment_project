@@ -1,5 +1,3 @@
 # firstAssignment_project
-
-adding another line from command line
-:wq!
-add new word 
+This project is to setup git environment into system.
+This is first assignement of Web design class. 
